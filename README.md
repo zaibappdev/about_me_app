@@ -135,16 +135,15 @@ flutter:
     - assets/images/twitter.png
 ```
 
-## 📝 Personal Information (Editable)
+## 📝 Personal Information
 
-* **Name**:
-* **Profession**:
-* **Email**:
-* **Location**:
-* **GitHub**:
-* **LinkedIn**:
-* **Facebook**:
-* **Twitter/X**:
+* **Name**: Zaibappdev
+* **Profession**: Mobile App Developer
+* **Email**: zaib.appdev@gmail.com
+* **Location**: Gilgit, Pakistan
+* **GitHub**: https://github.com/zaibappdev
+* **LinkedIn**: https://www.linkedin.com/in/zaibappdev/
+* **Facebook**: https://www.facebook.com/zaibappdev
 
 ## 🎯 Learning Outcomes
 
