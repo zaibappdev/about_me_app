@@ -178,7 +178,7 @@ Open for educational and portfolio use.
 
 ## 👨‍💻 Developer
 
-**Your Name Here**
+ **Zaibappdev**
 
 * Mobile Application Developer
 * Passionate about Flutter & cross-platform engineering
